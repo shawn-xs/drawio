@@ -1,93 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T03:19:05.617Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nPxCQsR9rGgrrGLHPapr" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T05:39:37.215Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="tFeeYnBYQyuokadPRQ1K" version="15.8.6" type="github">
   <diagram id="MgEjdaWWdwEsuHHKxT5H" name="第 1 页">
-    <mxGraphModel dx="920" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-12">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-37" value="算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" vertex="1" connectable="0" parent="LFI6K4kIaEwmIYhCkQtk-36">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-37" value="算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" parent="LFI6K4kIaEwmIYhCkQtk-36" vertex="1" connectable="0">
           <mxGeometry x="-0.2548" relative="1" as="geometry">
             <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;基于深度学习的医保欺诈检测系统设计与实现&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=14;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;基于深度学习的医保欺诈检测系统设计与实现&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="100" y="290" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-5" target="LFI6K4kIaEwmIYhCkQtk-10">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-5" target="LFI6K4kIaEwmIYhCkQtk-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;基于图对比学习的医保欺诈检测算法&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;基于图对比学习的医保欺诈检测算法&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="294" y="173" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-8" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-5">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-8" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-9" value="算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" vertex="1" connectable="0" parent="LFI6K4kIaEwmIYhCkQtk-8">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-9" value="算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" parent="LFI6K4kIaEwmIYhCkQtk-8" vertex="1" connectable="0">
           <mxGeometry x="0.4128" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-10" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-10" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="158" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-12" target="LFI6K4kIaEwmIYhCkQtk-16">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-12" target="LFI6K4kIaEwmIYhCkQtk-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-12" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;基于动态图的过度处方检测算法&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-12" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;基于动态图的过度处方检测算法&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="294" y="290" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-16" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-16" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="275" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-19" value="数据集构建与处理" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-19" value="数据集构建与预处理" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="166" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-20" value="模型算法" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-20" value="模型算法" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="211" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-21" value="数据集构建与处理" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-21" value="数据集构建与预处理" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="282" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-22" value="模型算法" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-22" value="模型算法" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="326" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-23" target="LFI6K4kIaEwmIYhCkQtk-28">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-23" target="LFI6K4kIaEwmIYhCkQtk-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-23" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;医保大数据智能监管平台&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-23" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;医保大数据智能监管平台&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="294" y="447" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-26" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=13;" edge="1" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-23">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-26" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=13;" parent="1" source="LFI6K4kIaEwmIYhCkQtk-2" target="LFI6K4kIaEwmIYhCkQtk-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-27" value="应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" vertex="1" connectable="0" parent="LFI6K4kIaEwmIYhCkQtk-26">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-27" value="应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans Simplified Chinese;fontColor=#000000;fontSize=13;" parent="LFI6K4kIaEwmIYhCkQtk-26" vertex="1" connectable="0">
           <mxGeometry x="0.3354" y="4" relative="1" as="geometry">
             <mxPoint x="22" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-28" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-28" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;horizontal=1;direction=east;fontFamily=Noto Sans Simplified Chinese;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="382" width="210" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-29" value="数据管理模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-29" value="数据管理模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="394.25" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-30" value="合规筛查模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-30" value="合规筛查模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="439.25" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-32" value="深度学习模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-32" value="深度学习模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="484.25" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LFI6K4kIaEwmIYhCkQtk-33" value="临床图谱模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="LFI6K4kIaEwmIYhCkQtk-33" value="临床图谱模块" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="529.75" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
